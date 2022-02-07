@@ -1,0 +1,9 @@
+
+#slider.slider__small{
+    height: 150px;
+}
+#slider.slider__small h1{
+    margin-top: 0.2px;
+    padding: 0px;
+    padding-top: 55px;
+}
